@@ -94,6 +94,16 @@ Should our code assist in your research, please acknowledge our work by citing:
 }
 ```
 
+## 📚 Acknowledgement
+
+As we claimed in our paper, this repository used the codes in the following papers:
+
+JSR-Net: https://github.com/vojirt/JSRNet
+SuperPoint: https://github.com/rpautrat/SuperPoint
+SuperGlue: https://github.com/magicleap/SuperGluePretrainedNetwork
+
+Please consider to cite these papers if their codes are used in your research.
+
 ---
 
 For the AI-generated incentive part in the paper, we are currently working on a comprehensive tutorial for the diffusion model-related code and will update the repository as soon as it's ready.
