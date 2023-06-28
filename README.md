@@ -59,31 +59,31 @@ In this demo, we consider that there are two users, whose view images are:
 
 <img src="readme/1.jpg" width = "60%">
 
-![User2](readme/2.jpg)
+<img src="readme/2.jpg" width = "60%">
 
 After run the code, several results can be viewed in PyCharm:
 
-![Pycharm results](readme/img1.png)
+<img src="readme/img1.png" width = "60%">
 
 For instance, the safe walk area calculated by the first user:
 
-![Safe walk area](readme/img2.png)
+<img src="readme/img2.png" width = "60%">
 
 Semantic matching results of two view images:
 
-![Semantic matching](readme/img3.png)
+<img src="readme/img3.png" width = "60%">
 
 Another way to show semantic matching results of two view images:
 
-![Semantic matching](readme/img4.png)
+<img src="readme/img4.png" width = "60%">
 
 How the second user transforms the view image of the first user to match their own view image:
 
-![Turn](readme/img41.png)
+<img src="readme/img41.png" width = "60%">
 
 The safe walk area information that the second user obtains based on the semantic information shared by the first user:
 
-![Final results](readme/img5.png)
+<img src="readme/img5.png" width = "60%">
 
 
 
