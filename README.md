@@ -50,7 +50,7 @@ Run `run.py` to start the program.
 
 In this demo, we consider that there are two users, whose view images are:
 
-![User1](readme/1.jpg)
+<img src="readme/1.jpg" width = "60%">
 
 ![User2](readme/2.jpg)
 
@@ -98,9 +98,11 @@ Should our code assist in your research, please acknowledge our work by citing:
 
 As we claimed in our paper, this repository used the codes in the following papers:
 
+```bash
 JSR-Net: https://github.com/vojirt/JSRNet
 SuperPoint: https://github.com/rpautrat/SuperPoint
 SuperGlue: https://github.com/magicleap/SuperGluePretrainedNetwork
+```
 
 Please consider to cite these papers if their codes are used in your research.
 
