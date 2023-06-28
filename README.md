@@ -2,7 +2,7 @@
 
 This repository hosts a demonstration of the semantic encoder and decoder algorithm as presented in the paper
 
-> **"AI-Generated Incentive Mechanism and Full-Duplex Semantic Communications for Information Sharing"
+> **"AI-Generated Incentive Mechanism and Full-Duplex Semantic Communications for Information Sharing"**
 
 Authored by Hongyang Du, Jiacheng Wang, Dusit Niyato, Jiawen Kang, Zehui Xiong, and Dong In Kim, accepted by IEEE JSAC.
 
