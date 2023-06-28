@@ -41,6 +41,13 @@ pip install torchvision
 pip install scikit-image
 ```
 
+Download the checkpoints files by refering:
+
+```bash
+SemSharing\jsr_code\checkpoints\googledown.txt
+```
+
+
 ## 🏃‍♀️ Run the Program
 
 Run `run.py` to start the program.
