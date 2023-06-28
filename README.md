@@ -85,7 +85,7 @@ The safe walk area information that the second user obtains based on the semanti
 
 <img src="readme/img5.png" width = "60%">
 
-
+Then, without performing the safe walk area detecing task, the second user can know that the road in front of him/her is safe. 
 
 ## 📚 Cite Our Work
 
