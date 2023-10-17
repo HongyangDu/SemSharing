@@ -115,6 +115,4 @@ Please consider to cite these papers if their codes are used in your research.
 
 ---
 
-For the AI-generated incentive part in the paper, we are currently working on a comprehensive tutorial for the diffusion model-related code and will update the repository as soon as it's ready.
-
-Please stay tuned for updates!
+For the AI-generated incentive part in the paper, please refer to our tutorial paper: [Beyond Deep Reinforcement Learning: A Tutorial on Generative Diffusion Models in Network Optimization](https://arxiv.org/abs/2308.05384) and [the codes](https://github.com/HongyangDu/GDMOPT).
