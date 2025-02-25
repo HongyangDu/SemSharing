@@ -41,7 +41,7 @@ pip install torchvision
 pip install scikit-image
 ```
 
-Download the checkpoints files by refering:
+Download the checkpoints files by referring:
 
 ```bash
 SemSharing\jsr_code\checkpoints\googledown.txt
@@ -61,9 +61,9 @@ In this demo, we consider that there are two users, whose view images are:
 
 <img src="readme/2.jpg" width = "60%">
 
-After run the code, several results can be viewed in PyCharm:
+After running the code, several results can be viewed.
 
-<img src="readme/img1.png" width = "60%">
+
 
 For instance, the safe walk area calculated by the first user:
 
@@ -81,11 +81,11 @@ How the second user transforms the view image of the first user to match their o
 
 <img src="readme/img41.png" width = "60%">
 
-The safe walk area information that the second user obtains based on the semantic information shared by the first user:
+The safe walk area information that the second user obtains is based on the semantic information shared by the first user:
 
 <img src="readme/img5.png" width = "60%">
 
-Then, without performing the safe walk area detecing task, the second user can know that the road in front of him/her is safe. 
+Then, without performing the safe walk area detecting task, the second user can know that the road in front of him/her is safe. 
 
 ## 📚 Cite Our Work
 
